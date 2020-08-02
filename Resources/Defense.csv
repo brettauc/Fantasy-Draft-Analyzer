@@ -1,33 +1,33 @@
-Team,Punt Return TD,Kick Return TD,2 Points Made,Field Goals Made,Safety,Sacks,Interceptions,Fumble Recovery,D/ST Touchdowns,Yards Allowed,Games
-Arizona Cardinals,1,0,0,27,0,46.4,10.5,7.9,2,6432,16
-Atlanta Falcons,0,0,2,30,0,39.1,11.6,8.9,2,5693,16
-Baltimore Ravens,0,1,3,27,0,45.4,15.8,8.1,5,4809,16
-Buffalo Bills,0,1,4,16,1,38.2,16.1,8.9,2.5,4772,16
-Carolina Panthers,3,0,2,27,0,41.2,12.6,9.9,2,5992,16
-Chicago Bears,0,0,1,23,1,48.4,18.9,11.9,5,5186,16
-Cincinnati Bengals,0,0,2,30,0,33,13.7,5,2,6299,16
-Cleveland Browns,0,0,1,23,2,43.3,16.8,10.9,3,5785,16
-Dallas Cowboys,0,0,2,26,0,38.1,12.6,12.9,2,5232,16
-Denver Broncos,2,0,1,34,0,42.2,13.7,8.9,3,5392,16
-Detroit Lions,0,1,2,27,0,38.1,9.5,7.9,3,6406,16
-Green Bay Packers,0,0,0,27,0,42.2,10.5,9.9,2,5642,16
-Houston Texans,0,0,1,21,1,41.2,14.7,10.9,5,6213,16
-Indianapolis Colts,0,0,1,29,0,41.2,13.7,11.9,3,5549,16
-Jacksonville Jaguars,0,0,2,22,0,45.3,13.7,9.9,4,6007,16
-Kansas City Chiefs,0,0,3,21,0,42.2,12.6,10.9,4,5594,16
-Los Angeles Chargers,0,1,2,23,0,37.1,12.6,9.9,4,5009,16
-Los Angeles Rams,0,0,0,24,0,44.3,16.8,10.9,4,5434,16
-Miami Dolphins,0,1,4,31,2,33,14.7,7.9,5,6364,16
-Minnesota Vikings,0,0,1,29,1,46.4,15.8,6.9,3,5465,16
-New England Patriots,0,0,0,17,0,36.1,15.8,7.9,4,4414,16
-New Orleans Saints,0,1,1,22,0,47.4,14.7,8.9,2,5329,16
-New York Giants,0,0,0,25,1,31.9,13.7,7.9,1,6037,16
-New York Jets,0,0,3,28,3,34,12.6,7.9,3,5170,16
-Oakland Raiders,0,0,0,20,0,27.8,12.6,7.9,2,5677,16
-Philadelphia Eagles,0,1,2,23,0,41.2,14.7,10.9,4,5307,16
-Pittsburgh Steelers,0,0,0,25,3,46.4,11.6,9.9,3,4866,16
-San Francisco 49ers,0,0,3,17,1,36.1,10.5,9.9,3,4509,16
-Seattle Seahawks,1,0,3,25,0,42.2,13.7,11.9,3,6106,16
-Tampa Bay Buccaneers,0,0,5,37,1,36.1,12.6,10.9,2,5503,16
-Tennessee Titans,0,0,2,21,0,41.2,12.6,7.9,2,5752,16
-Washington Redskins,0,0,1,25,0,40.2,13.7,8.9,0,6162,16
+Team,Punt Return TD,Kick Return TD,2 Points Made,Field Goals Made,Safety,Sacks,Interceptions,Fumble Recovery,D/ST Touchdowns,Yards Allowed Per Game,Passing Yards Per Game,Rushing Yards Per Game
+Arizona Cardinals,1,0,0,27,0,46.4,10.5,7.9,2,402,281.9,120.1
+Atlanta Falcons,0,0,2,30,0,39.1,11.6,8.9,2,355.8,244.9,110.9
+Baltimore Ravens,0,1,3,27,0,45.4,15.8,8.1,5,300.6,207.2,93.4
+Buffalo Bills,0,1,4,16,1,38.2,16.1,8.9,2.5,298.3,195.2,103.1
+Carolina Panthers,3,0,2,27,0,41.2,12.6,9.9,2,374.5,231,143.5
+Chicago Bears,0,0,1,23,1,48.4,18.9,11.9,5,324.1,222.1,102
+Cincinnati Bengals,0,0,2,30,0,33,13.7,5,2,393.7,244.8,148.9
+Cleveland Browns,0,0,1,23,2,43.3,16.8,10.9,3,361.6,216.9,144.7
+Dallas Cowboys,0,0,2,26,0,38.1,12.6,12.9,2,327,223.5,103.5
+Denver Broncos,2,0,1,34,0,42.2,13.7,8.9,3,337,225.6,111.4
+Detroit Lions,0,1,2,27,0,38.1,9.5,7.9,3,400.4,284.4,115.9
+Green Bay Packers,0,0,0,27,0,42.2,10.5,9.9,2,352.6,232.6,120.1
+Houston Texans,0,0,1,21,1,41.2,14.7,10.9,5,388.3,267.3,121.1
+Indianapolis Colts,0,0,1,29,0,41.2,13.7,11.9,3,346.8,248.9,97.9
+Jacksonville Jaguars,0,0,2,22,0,45.3,13.7,9.9,4,375.4,236.1,139.3
+Kansas City Chiefs,0,0,3,21,0,42.2,12.6,10.9,4,349.6,221.4,128.2
+Los Angeles Chargers,0,1,2,23,0,37.1,12.6,9.9,4,313.1,200.3,112.8
+Los Angeles Rams,0,0,0,24,0,44.3,16.8,10.9,4,339.6,226.6,113.1
+Miami Dolphins,0,1,4,31,2,33,14.7,7.9,5,397.8,262.4,135.4
+Minnesota Vikings,0,0,1,29,1,46.4,15.8,6.9,3,341.6,233.6,108
+New England Patriots,0,0,0,17,0,36.1,15.8,7.9,4,275.9,180.4,95.5
+New Orleans Saints,0,1,1,22,0,47.4,14.7,8.9,2,333.1,241.8,91.3
+New York Giants,0,0,0,25,1,31.9,13.7,7.9,1,377.3,264.1,113.3
+New York Jets,0,0,3,28,3,34,12.6,7.9,3,323.1,236.2,86.9
+Oakland Raiders,0,0,0,20,0,27.8,12.6,7.9,2,354.8,256.7,98.1
+Philadelphia Eagles,0,1,2,23,0,41.2,14.7,10.9,4,331.7,241.6,90.1
+Pittsburgh Steelers,0,0,0,25,3,46.4,11.6,9.9,3,304.1,194.6,109.6
+San Francisco 49ers,0,0,3,17,1,36.1,10.5,9.9,3,281.8,169.2,112.6
+Seattle Seahawks,1,0,3,25,0,42.2,13.7,11.9,3,381.6,263.9,117.7
+Tampa Bay Buccaneers,0,0,5,37,1,36.1,12.6,10.9,2,343.9,270.1,73.8
+Tennessee Titans,0,0,2,21,0,41.2,12.6,7.9,2,359.5,255,104.5
+Washington Redskins,0,0,1,25,0,40.2,13.7,8.9,0,385.1,238.9,146.2
