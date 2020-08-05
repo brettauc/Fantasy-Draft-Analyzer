@@ -34,6 +34,7 @@ Our key business objective was to create a dashboard that would help fantasy foo
 * We used data from [Pro Football Reference](https://www.pro-football-reference.com/years/2019/opp.htm)
 
 * NFL stats metrics used for the dashboard
+
 ![Data Matrix](Images/matrix.jpg)
 
 #### Challenges
