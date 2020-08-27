@@ -35,7 +35,7 @@ Our key business objective was to create a dashboard that would help fantasy foo
 
 * NFL stats metrics used for the dashboard
 
-![Data Matrix](Images/matrix.jpg)
+![Data Matrix](Images/d_matrix.jpg)
 
 #### Challenges
 * The NFL has a large amount of data points given, but needed lots of work to be cleaned
