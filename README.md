@@ -45,3 +45,11 @@ Our key business objective was to create a dashboard that would help fantasy foo
     * Free APIs gave limited data
     * Paid APIs were too expensive
 * Difficult to find defense by team instead of by player
+
+#### Tools used in this project
+* Python3
+* Pandas
+* Panel and Panel Interact
+* Plotly and HvPlot
+* Webscrapping
+* Linear Regression
